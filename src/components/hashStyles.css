@@ -1,0 +1,16 @@
+.data {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.inputData {
+    width: 50%;
+    border: 3px solid green;
+    margin: 20px auto;
+    display: grid;
+}
+
+.inputData input{
+    font-size: 35px;
+}
+
